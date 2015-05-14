@@ -1,0 +1,8 @@
+{
+  "name": "d3js-map",
+  "version": "0.0.1",
+  "main": "index.js",
+  "dependencies": {
+    "node-static": "^0.7.3"
+  }
+}
